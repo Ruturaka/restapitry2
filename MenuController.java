@@ -1,9 +1,8 @@
 package com.journaldev.controller;
 
 import com.journaldev.model.Menu;
-import com.journaldev.model.Order;
 import com.journaldev.spring.dao.MenuDao;
-import com.journaldev.spring.dao.OrderDao;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
